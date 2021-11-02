@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  margin: auto;
+  width: 250px;
+  min-height: 100px;
+  padding: 10px;
+  background-color: #ccc;
+  border: 3px solid black;
+}
+ul li {
+  list-style: none;
+}
+input {
+  border-radius: 2px;
+  border: 2px solid black;
+  height: 27px;
+}
+.box {
+  margin-bottom: 10px;
+}
+.btn {
+  background-color: black;
+  color: white;
+  height: 28px;
+  width: 50px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+.msg-2 {
+  display: block;
+}
+.msg {
+  display: none;
+}
